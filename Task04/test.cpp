@@ -1,5 +1,4 @@
 ﻿#include "test.h"
-
 // wrong size
 void test01() {
 	int n = -3, m = 3;
